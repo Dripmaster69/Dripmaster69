@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on school projects
+- 🌱 I’m currently learning classes
+- 👯 I’m looking to collaborate on, nothing
+- 🤔 I’m looking for help with everything
+- 💬 Ask me about my personal life
+- 📫 How to reach me: maximilian.waldenfeldtuggla@elev.ga.ntig.se, Puggla #0380
+- 😄 Pronouns: Sexy/smart
+- ⚡ Fun fact: I am tall
+
 <!--
 **Dripmaster69/Dripmaster69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
